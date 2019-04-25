@@ -1,4 +1,4 @@
-# 21DaysOfSwift
+# 21 Days of Swift
 
 ## Hi Community
 
