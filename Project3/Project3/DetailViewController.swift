@@ -24,6 +24,8 @@ class DetailViewController: UIViewController {
         
         if let imageToLoad = selectedImage {
             imageView.image = UIImage(named: imageToLoad)
+            imageView.layer.borderWidth = 1
+            imageView.layer.borderColor = UIColor.lightGray.cgColor
         }
     }
     
